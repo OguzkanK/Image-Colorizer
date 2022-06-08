@@ -1,0 +1,2 @@
+ Go to https://drive.google.com/file/d/1iYMY64RGyamdcJWjhHrSgU-CkjmI-MbF/view?usp=sharing and download the "Colorize-Image-Model.zip" file, 
+ then extract it inside this directory.
